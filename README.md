@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's going on? 👋</h1>
+<div align="center"><h1>✨ How are things? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Brownsville station is a Metrorail station in Brownsville, Florida. It is located at the intersection of Northwest 27th Avenue and 52nd Street, opening to service May 19, 1985.
+Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), formerly Sree Chitra Tirunal Medical Center, is an Institution of National Importance in India established in 1976 at Thiruvananthapuram, Kerala. The institute is a statutory body under the Ministry of Science and Technology under the administrative control of the Department of Science and Technology, Government of India. SCTIMST is one of the most prominent research institutes and centers in India.
 
-https://en.m.wikipedia.org/wiki/Brownsville_station
+https://en.m.wikipedia.org/wiki/Sree_Chitra_Tirunal_Institute_for_Medical_Sciences_and_Technology%2C_Trivandrum
 
 ## 🎨 Chess is Art ♟️
 
