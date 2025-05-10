@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How are things? 👋</h1>
+<div align="center"><h1>✨ Nice to meet you 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), formerly Sree Chitra Tirunal Medical Center, is an Institution of National Importance in India established in 1976 at Thiruvananthapuram, Kerala. The institute is a statutory body under the Ministry of Science and Technology under the administrative control of the Department of Science and Technology, Government of India. SCTIMST is one of the most prominent research institutes and centers in India.
+Malaika Kubwa, known professionally as Martina Big, is a German television personality known for her extremely large breast implants, and for undergoing a perma-tanning procedure to give herself a dark skin color, eyebrow color and eye color. Big currently identifies as black.
 
-https://en.m.wikipedia.org/wiki/Sree_Chitra_Tirunal_Institute_for_Medical_Sciences_and_Technology%2C_Trivandrum
+https://en.m.wikipedia.org/wiki/Martina_Big
 
 ## 🎨 Chess is Art ♟️
 
