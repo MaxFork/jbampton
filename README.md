@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Nice to meet you 👋</h1>
+<div align="center"><h1>✨ Hello 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29349__
+- Honor: __29354__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Malaika Kubwa, known professionally as Martina Big, is a German television personality known for her extremely large breast implants, and for undergoing a perma-tanning procedure to give herself a dark skin color, eyebrow color and eye color. Big currently identifies as black.
+MANE is a major producer of flavours and fragrances with sales of €1,7 billion in 2022. MANE is a member of the European Flavour Association.
 
-https://en.m.wikipedia.org/wiki/Martina_Big
+https://en.m.wikipedia.org/wiki/Mane_SA
 
 ## 🎨 Chess is Art ♟️
 
