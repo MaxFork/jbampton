@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been up? 👋</h1>
+<div align="center"><h1>✨ Hello 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29360__
+- Honor: __29361__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Michael S. Cederholm is a United States Marine Corps lieutenant general who serves as the commanding general of the I Marine Expeditionary Force. He previously commanded the 2nd Marine Aircraft Wing from 2020 to 2022.
+The siege of Ganja or assault on Ganja was the result of a Russian offensive in the South Caucasus intended to conquer the Ganja Khanate of Qajar Iran, which contributed to the escalation of the Russo-Persian War (1804–1813).
 
-https://en.m.wikipedia.org/wiki/Michael_Cederholm
+https://en.m.wikipedia.org/wiki/Siege_of_Ganja_(1804)
 
 ## 🎨 Chess is Art ♟️
 
