@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How are you? 👋</h1>
+<div align="center"><h1>✨ Yo 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29365__
+- Honor: __29368__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Theodor Luts was an Estonian film director and cinematographer, brother of classic writer Oskar Luts. Theodor Luts was the first major figure of Estonian cinematography
+The West Indies cricket team, nicknamed The Windies, is a men's cricket team representing the West Indies—a group of mainly English-speaking countries and territories in the Caribbean region—and administered by Cricket West Indies. The players on this composite team are selected from a chain of fifteen Caribbean nation-states and territories. As of 25 March 2025, the West Indies cricket team is ranked eighth in Tests, Ninth in ODIs, and fifth in T20Is in the official ICC rankings.
 
-https://en.m.wikipedia.org/wiki/Theodor_Luts
+https://en.m.wikipedia.org/wiki/West_Indies_cricket_team
 
 ## 🎨 Chess is Art ♟️
 
