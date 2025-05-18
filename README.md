@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Long time no see 👋</h1>
+<div align="center"><h1>✨ How's your day? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29372__
+- Honor: __29375__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Princess is a 2010 Finnish biographical film directed by Arto Halonen and based on the life of Anna Lappalainen.
+A Great Day in Hip Hop is a black-and-white photograph of over 200 hip hop artists and producers in Harlem, New York, taken by photographer Gordon Parks on September 29, 1998. It was commissioned by XXL magazine, as a homage to Art Kane's A Great Day in Harlem, photographed in 1958.
 
-https://en.m.wikipedia.org/wiki/Princess_(2010_film)
+https://en.m.wikipedia.org/wiki/A_Great_Day_in_Hip_Hop
 
 ## 🎨 Chess is Art ♟️
 
