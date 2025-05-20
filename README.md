@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's things? 👋</h1>
+<div align="center"><h1>✨ Good evening 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29378__
+- Honor: __29382__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The World RX of Belgium was a Rallycross event held in Belgium for the FIA World Rallycross Championship. The event made its debut in the 2014 season, at the Circuit Jules Tacheny Mettet in the town of Mettet, Wallonia. From the 2019 season, the event will beheld at Circuit de Spa-Francorchamps and has been renamed the Spa World RX of Benelux.
+The Drug Enforcement Administration (DEA) is a United States federal law enforcement agency under the U.S. Department of Justice tasked with combating illicit drug trafficking and distribution within the U.S. It is the lead agency for domestic enforcement of the Controlled Substances Act, sharing concurrent jurisdiction with the Federal Bureau of Investigation and U.S. Customs and Border Protection. The DEA is responsible for coordinating and pursuing U.S. drug investigations both domestically and internationally.
 
-https://en.m.wikipedia.org/wiki/World_RX_of_Belgium
+https://en.m.wikipedia.org/wiki/Drug_Enforcement_Administration
 
 ## 🎨 Chess is Art ♟️
 
