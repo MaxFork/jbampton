@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good evening 👋</h1>
+<div align="center"><h1>✨ Hi 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29382__
+- Honor: __29385__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The Drug Enforcement Administration (DEA) is a United States federal law enforcement agency under the U.S. Department of Justice tasked with combating illicit drug trafficking and distribution within the U.S. It is the lead agency for domestic enforcement of the Controlled Substances Act, sharing concurrent jurisdiction with the Federal Bureau of Investigation and U.S. Customs and Border Protection. The DEA is responsible for coordinating and pursuing U.S. drug investigations both domestically and internationally.
+Trin-i-tee 5:7 was an American gospel girl group formed in 1997. The original lineup composed of Chanelle Haynes, Angel Taylor, and Terri Brown. The group was launched into mainstream recognition following the release of their best-selling debut album, Trin-i-tee 5:7 (1998), which contained the top-charting gospel single "God's Grace". The album became certified gold. Despite critical and commercial success, the group experienced a lineup change when Terri Brown left the group in 1999.
 
-https://en.m.wikipedia.org/wiki/Drug_Enforcement_Administration
+https://en.m.wikipedia.org/wiki/Trin-i-tee_5%3A7
 
 ## 🎨 Chess is Art ♟️
 
