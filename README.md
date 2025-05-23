@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything? 👋</h1>
+<div align="center"><h1>✨ Good morning 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29390__
+- Honor: __29393__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Wilmorite Properties, Inc is a commercial real estate company based in Chili, New York, a suburb of Rochester, New York.
+The 2023 IIHF World Championship Division IV was an international ice hockey tournament run by the International Ice Hockey Federation.
 
-https://en.m.wikipedia.org/wiki/Wilmorite_Properties
+https://en.m.wikipedia.org/wiki/2023_IIHF_World_Championship_Division_IV
 
 ## 🎨 Chess is Art ♟️
 
