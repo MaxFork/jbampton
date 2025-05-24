@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good morning 👋</h1>
+<div align="center"><h1>✨ How's it all been? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29393__
+- Honor: __29394__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The 2023 IIHF World Championship Division IV was an international ice hockey tournament run by the International Ice Hockey Federation.
+Charles J. Perrenot was a politician in Florida. He served as president of the Florida Senate.
 
-https://en.m.wikipedia.org/wiki/2023_IIHF_World_Championship_Division_IV
+https://en.m.wikipedia.org/wiki/Charles_J._Perrenot
 
 ## 🎨 Chess is Art ♟️
 
