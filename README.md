@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all been? 👋</h1>
+<div align="center"><h1>✨ How's things going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29394__
+- Honor: __29395__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Charles J. Perrenot was a politician in Florida. He served as president of the Florida Senate.
+Silk painting depicting a man riding a dragon (人物御龍帛畫) is a Chinese painting on silk from the Warring States period. It was discovered in the Zidanku Tomb no. 1 in Changsha, Hunan Province in 1973. Now in the Hunan Museum, it is one of the "Chinese cultural relics forbidden to be exhibited abroad", announced by the Chinese government in 2002.
 
-https://en.m.wikipedia.org/wiki/Charles_J._Perrenot
+https://en.m.wikipedia.org/wiki/Silk_painting_depicting_a_man_riding_a_dragon
 
 ## 🎨 Chess is Art ♟️
 
