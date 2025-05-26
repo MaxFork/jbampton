@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's things going? 👋</h1>
+<div align="center"><h1>✨ What's new? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29395__
+- Honor: __29398__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Silk painting depicting a man riding a dragon (人物御龍帛畫) is a Chinese painting on silk from the Warring States period. It was discovered in the Zidanku Tomb no. 1 in Changsha, Hunan Province in 1973. Now in the Hunan Museum, it is one of the "Chinese cultural relics forbidden to be exhibited abroad", announced by the Chinese government in 2002.
+Williamson College of the Trades is a private men's junior vocational college in Media, Pennsylvania. The school was founded on December 1, 1888, by Philadelphia merchant and philanthropist Isaiah Vansant Williamson.
 
-https://en.m.wikipedia.org/wiki/Silk_painting_depicting_a_man_riding_a_dragon
+https://en.m.wikipedia.org/wiki/Williamson_College_of_the_Trades
 
 ## 🎨 Chess is Art ♟️
 
