@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's new? 👋</h1>
+<div align="center"><h1>✨ What's going on? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29398__
+- Honor: __29402__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Williamson College of the Trades is a private men's junior vocational college in Media, Pennsylvania. The school was founded on December 1, 1888, by Philadelphia merchant and philanthropist Isaiah Vansant Williamson.
+Fred Makimare is an Australian rugby league player who has represented the Cook Islands. He played in Melbourne Storms Under 20s grand final win over the Wests Tigers.
 
-https://en.m.wikipedia.org/wiki/Williamson_College_of_the_Trades
+https://en.m.wikipedia.org/wiki/Fred_Makimare
 
 ## 🎨 Chess is Art ♟️
 
