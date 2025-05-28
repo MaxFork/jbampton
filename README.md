@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's going on? 👋</h1>
+<div align="center"><h1>✨ How's everything going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29402__
+- Honor: __29405__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Fred Makimare is an Australian rugby league player who has represented the Cook Islands. He played in Melbourne Storms Under 20s grand final win over the Wests Tigers.
+"Strip Me" is a song performed by British singer-songwriter Natasha Bedingfield. The song is the title track and second single from her third studio album, Strip Me, and was co-written and co-produced by Ryan Tedder. The song was sent to US radio on 31 August 2010 and later to online music stores on 21 September. The single debuted at number 95 on the Billboard Hot 100 on the week of 6 November 2010 and peaked at number 91.
 
-https://en.m.wikipedia.org/wiki/Fred_Makimare
+https://en.m.wikipedia.org/wiki/Strip_Me_(song)
 
 ## 🎨 Chess is Art ♟️
 
