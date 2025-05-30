@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good morning 👋</h1>
+<div align="center"><h1>✨ Pleased to meet you 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29409__
+- Honor: __29410__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The Brăila Municipal Stadium is a multi-purpose stadium in Brăila, Romania, and is the home ground of Dacia Unirea Brăila. It holds 20,154 people.
+A Million Ways to Die in the West is a 2014 American Western comedy film directed by Seth MacFarlane and written by MacFarlane, Alec Sulkin and Wellesley Wild. The film features an ensemble cast including MacFarlane, Charlize Theron, Amanda Seyfried, Neil Patrick Harris, Giovanni Ribisi, Sarah Silverman, and Liam Neeson. The film follows a cowardly frontiersman who gains courage with the help of a female gunfighter and must use his newfound skills in a confrontation with her villainous outlaw husband.
 
-https://en.m.wikipedia.org/wiki/Br%C4%83ila_Municipal_Stadium
+https://en.m.wikipedia.org/wiki/A_Million_Ways_to_Die_in_the_West
 
 ## 🎨 Chess is Art ♟️
 
