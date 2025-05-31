@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Pleased to meet you 👋</h1>
+<div align="center"><h1>✨ What's all good? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,8 +52,8 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29410__
-- Leaderboard Position: __169__
+- Honor: __29412__
+- Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
 
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-A Million Ways to Die in the West is a 2014 American Western comedy film directed by Seth MacFarlane and written by MacFarlane, Alec Sulkin and Wellesley Wild. The film features an ensemble cast including MacFarlane, Charlize Theron, Amanda Seyfried, Neil Patrick Harris, Giovanni Ribisi, Sarah Silverman, and Liam Neeson. The film follows a cowardly frontiersman who gains courage with the help of a female gunfighter and must use his newfound skills in a confrontation with her villainous outlaw husband.
+The third season of the military science fiction television series Stargate SG-1 commenced airing on Showtime in the United States on June 25, 1999, concluded on Sky1 in the United Kingdom on March 8, 2000, and contained 22 episodes. The third season follows SG-1 in their fight against the Goa'uld Empire's System Lords, the main being Sokar until "The Devil You Know" and then Apophis, after he regained power during that episode. The season introduces the long-unseen and unnamed enemy of the Asgards, the Replicators, who are self-replicating machines that seek to convert all civilizations into more of themselves, thus posing a dire threat to all other beings. The Replicators are first mentioned, but not named, in season three episode "Fair Game".
 
-https://en.m.wikipedia.org/wiki/A_Million_Ways_to_Die_in_the_West
+https://en.m.wikipedia.org/wiki/Stargate_SG-1_season_3
 
 ## 🎨 Chess is Art ♟️
 
