@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's all good? 👋</h1>
+<div align="center"><h1>✨ Hello 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29412__
+- Honor: __29415__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The third season of the military science fiction television series Stargate SG-1 commenced airing on Showtime in the United States on June 25, 1999, concluded on Sky1 in the United Kingdom on March 8, 2000, and contained 22 episodes. The third season follows SG-1 in their fight against the Goa'uld Empire's System Lords, the main being Sokar until "The Devil You Know" and then Apophis, after he regained power during that episode. The season introduces the long-unseen and unnamed enemy of the Asgards, the Replicators, who are self-replicating machines that seek to convert all civilizations into more of themselves, thus posing a dire threat to all other beings. The Replicators are first mentioned, but not named, in season three episode "Fair Game".
+The 2020 National Hockey League All-Star Game was held on January 25, 2020, at the Enterprise Center in St. Louis, Missouri, the home of the St. Louis Blues. The city previously hosted the NHL All-Star Game in 1970 and 1988 at the former St. Louis Arena. For the fifth year, the All-Star Game used a 3-on-3 format, with teams representing each of the league's four divisions competing in a single-elimination tournament.
 
-https://en.m.wikipedia.org/wiki/Stargate_SG-1_season_3
+https://en.m.wikipedia.org/wiki/2020_National_Hockey_League_All-Star_Game
 
 ## 🎨 Chess is Art ♟️
 
