@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Hello 👋</h1>
+<div align="center"><h1>✨ Yo 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29415__
+- Honor: __29420__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The 2020 National Hockey League All-Star Game was held on January 25, 2020, at the Enterprise Center in St. Louis, Missouri, the home of the St. Louis Blues. The city previously hosted the NHL All-Star Game in 1970 and 1988 at the former St. Louis Arena. For the fifth year, the All-Star Game used a 3-on-3 format, with teams representing each of the league's four divisions competing in a single-elimination tournament.
+Uncovered is the sixth and final solo studio album from English singer-songwriter Steve Harley, released on 21 February 2020.
 
-https://en.m.wikipedia.org/wiki/2020_National_Hockey_League_All-Star_Game
+https://en.m.wikipedia.org/wiki/Uncovered_(Steve_Harley_album)
 
 ## 🎨 Chess is Art ♟️
 
