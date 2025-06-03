@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Yo 👋</h1>
+<div align="center"><h1>✨ Greetings 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29420__
+- Honor: __29423__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Uncovered is the sixth and final solo studio album from English singer-songwriter Steve Harley, released on 21 February 2020.
+Disney Channel All Star Party is a party game based on several Disney Channel franchises, exclusively for Wii. This game uses characters, games, and stages from Phineas and Ferb, Jonas L.A., Sonny with a Chance, Wizards of Waverly Place, Hannah Montana Forever, The Suite Life on Deck, and Camp Rock 2: The Final Jam. It was released in North America on October 26, 2010, and in Europe on November 5. It is published by Disney Interactive Studios and developed by Page 44 Studios. It is the second Disney game to feature Miis as player characters.
 
-https://en.m.wikipedia.org/wiki/Uncovered_(Steve_Harley_album)
+https://en.m.wikipedia.org/wiki/Disney_Channel_All_Star_Party
 
 ## 🎨 Chess is Art ♟️
 
