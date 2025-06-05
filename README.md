@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Pleased to meet you 👋</h1>
+<div align="center"><h1>✨ How's everything going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29426__
+- Honor: __29430__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Monika Krupa is a Polish chess player who holds the FIDE title of Woman Grandmaster (2008).
+Besnik Bekteshi is a former Albanian politician of the Albanian Party of Labour (PPSh). He has served as Deputy Prime Minister and Minister of Industry of Communist Albania.
 
-https://en.m.wikipedia.org/wiki/Monika_Krupa
+https://en.m.wikipedia.org/wiki/Besnik_Bekteshi
 
 ## 🎨 Chess is Art ♟️
 
