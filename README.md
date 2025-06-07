@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good morning 👋</h1>
+<div align="center"><h1>✨ It's good to see you 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29431__
+- Honor: __29435__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Pictonia is an extinct ammonoid cephalopod genus belonging to the family Aulacostephanidae. These fast-moving nektonic carnivores lived during the Jurassic period, Kimmeridgian age.
+Airavatesvara Temple is a Hindu temple of Chola architecture located in Kumbakonam, Thanjavur District in the South Indian state of Tamil Nadu. This temple, built by Chola emperor Rajaraja II in the 12th century CE is a UNESCO World Heritage Site, along with the Brihadeeswara Temple at Thanjavur, the Gangaikondacholisvaram Temple at Gangaikonda Cholapuram that are referred to as the Great Living Chola Temples.
 
-https://en.m.wikipedia.org/wiki/Pictonia
+https://en.m.wikipedia.org/wiki/Airavatesvara_Temple
 
 ## 🎨 Chess is Art ♟️
 
