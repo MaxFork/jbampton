@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ It's good to see you 👋</h1>
+<div align="center"><h1>✨ What's going on? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Airavatesvara Temple is a Hindu temple of Chola architecture located in Kumbakonam, Thanjavur District in the South Indian state of Tamil Nadu. This temple, built by Chola emperor Rajaraja II in the 12th century CE is a UNESCO World Heritage Site, along with the Brihadeeswara Temple at Thanjavur, the Gangaikondacholisvaram Temple at Gangaikonda Cholapuram that are referred to as the Great Living Chola Temples.
+Burn the Stage: The Movie is a 2018 South Korean musical documentary film directed by Park Jun-soo and produced by Yoon Jiwon, featuring the behind-the-scenes of boy band BTS' 2017 The Wings Tour, an event known for drawing in more than half a million fans in 19 different countries around the world. It was released on 15 November 2018, and its distribution was handled by Trafalgar Releasing.
 
-https://en.m.wikipedia.org/wiki/Airavatesvara_Temple
+https://en.m.wikipedia.org/wiki/Burn_the_Stage%3A_The_Movie
 
 ## 🎨 Chess is Art ♟️
 
