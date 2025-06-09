@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's going on? 👋</h1>
+<div align="center"><h1>✨ How's your day? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29435__
+- Honor: __29438__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Burn the Stage: The Movie is a 2018 South Korean musical documentary film directed by Park Jun-soo and produced by Yoon Jiwon, featuring the behind-the-scenes of boy band BTS' 2017 The Wings Tour, an event known for drawing in more than half a million fans in 19 different countries around the world. It was released on 15 November 2018, and its distribution was handled by Trafalgar Releasing.
+Michaela Sigrid Specht is a German footballer who played as a midfielder for TSG Hoffenheim.
 
-https://en.m.wikipedia.org/wiki/Burn_the_Stage%3A_The_Movie
+https://en.m.wikipedia.org/wiki/Michaela_Specht
 
 ## 🎨 Chess is Art ♟️
 
