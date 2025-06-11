@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's up? 👋</h1>
+<div align="center"><h1>✨ How's everything going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29443__
+- Honor: __29448__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Benjamin Thiéry is a French former rugby union player.
+Mark P. "Forger" Stucky is an American test pilot and commercial astronaut. In these roles, he was an employee of Virgin Galactic, a private spaceflight company which is developing sub-orbital space tourism flights.
 
-https://en.m.wikipedia.org/wiki/Benjamin_Thi%C3%A9ry
+https://en.m.wikipedia.org/wiki/Mark_P._Stucky
 
 ## 🎨 Chess is Art ♟️
 
