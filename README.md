@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything been? 👋</h1>
+<div align="center"><h1>✨ What's been up? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29451__
+- Honor: __29452__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Overlord II is a 2009 action role-playing game and sequel to the 2007 video game Overlord and its 2008 expansion pack in the form of Overlord: Raising Hell. It was developed by Triumph Studios and published by Codemasters for PlayStation 3, Windows, and Xbox 360. All versions were released in North America on 23 June 2009, in Europe on 26 June and Australia on 9 July 2009, alongside two spin-offs; Overlord: Dark Legend and Overlord: Minions for the Wii and the Nintendo DS, respectively. Ports for Linux and OS X were released on 26 July 2016.
+Charles M. Barras was an American actor and playwright best known for writing the book inspiring the hit musical play The Black Crook.
 
-https://en.m.wikipedia.org/wiki/Overlord_II
+https://en.m.wikipedia.org/wiki/Charles_M._Barras
 
 ## 🎨 Chess is Art ♟️
 
