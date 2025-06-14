@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been up? 👋</h1>
+<div align="center"><h1>✨ Yo 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29452__
+- Honor: __29454__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Charles M. Barras was an American actor and playwright best known for writing the book inspiring the hit musical play The Black Crook.
+Old Dogs & New Tricks is a web series created by Leon Acord, and starring Acord, Curt Bonnem, David Pevsner and Jeffrey Patrick Olson. The comedy-drama series is about four middle-aged gay men living in "youth-obsessed West Hollywood".
 
-https://en.m.wikipedia.org/wiki/Charles_M._Barras
+https://en.m.wikipedia.org/wiki/Old_Dogs_%26_New_Tricks
 
 ## 🎨 Chess is Art ♟️
 
