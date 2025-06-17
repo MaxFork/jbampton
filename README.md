@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything been? 👋</h1>
+<div align="center"><h1>✨ What's been going on? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29465__
+- Honor: __29470__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Shaniqua Okwok is a British actress. She is best known for her roles as Maia in Paramount+ series The Flatshare (2022) and Dominique in the Sky Max series Wolfe (2021).
+Les Chavannes-en-Maurienne is a commune in the Savoie department in the Auvergne-Rhône-Alpes region in south-eastern France.
 
-https://en.m.wikipedia.org/wiki/Shaniqua_Okwok
+https://en.m.wikipedia.org/wiki/Les_Chavannes-en-Maurienne
 
 ## 🎨 Chess is Art ♟️
 
