@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been going on? 👋</h1>
+<div align="center"><h1>✨ It's good to see you 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29470__
+- Honor: __29477__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Les Chavannes-en-Maurienne is a commune in the Savoie department in the Auvergne-Rhône-Alpes region in south-eastern France.
+John Edward McCullough was an Irish-born American actor.
 
-https://en.m.wikipedia.org/wiki/Les_Chavannes-en-Maurienne
+https://en.m.wikipedia.org/wiki/John_McCullough_(actor)
 
 ## 🎨 Chess is Art ♟️
 
