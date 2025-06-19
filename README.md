@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ It's good to see you 👋</h1>
+<div align="center"><h1>✨ How's things? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29477__
+- Honor: __29478__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-John Edward McCullough was an Irish-born American actor.
+Available Light is a 2005 album by New Zealand singer-songwriter Dave Dobbyn. It debuted at number 3 on the New Zealand Music Charts.
 
-https://en.m.wikipedia.org/wiki/John_McCullough_(actor)
+https://en.m.wikipedia.org/wiki/Available_Light_(album)
 
 ## 🎨 Chess is Art ♟️
 
