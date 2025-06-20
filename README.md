@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's things? 👋</h1>
+<div align="center"><h1>✨ Hey 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29478__
+- Honor: __29481__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Available Light is a 2005 album by New Zealand singer-songwriter Dave Dobbyn. It debuted at number 3 on the New Zealand Music Charts.
+Spiraea nipponica is a species of flowering plant in the family Rosaceae, native to the island of Shikoku, Japan. Growing to 1.2–2.5 m (4–8 ft) tall and broad, it is a deciduous shrub with clusters of small, bowl-shaped white flowers in midsummer.
 
-https://en.m.wikipedia.org/wiki/Available_Light_(album)
+https://en.m.wikipedia.org/wiki/Spiraea_nipponica
 
 ## 🎨 Chess is Art ♟️
 
