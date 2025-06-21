@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Hey 👋</h1>
+<div align="center"><h1>✨ Hello 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29481__
+- Honor: __29483__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Spiraea nipponica is a species of flowering plant in the family Rosaceae, native to the island of Shikoku, Japan. Growing to 1.2–2.5 m (4–8 ft) tall and broad, it is a deciduous shrub with clusters of small, bowl-shaped white flowers in midsummer.
+Aron Leonard Dønnum is a Norwegian professional footballer who plays as a winger for Toulouse.
 
-https://en.m.wikipedia.org/wiki/Spiraea_nipponica
+https://en.m.wikipedia.org/wiki/Aron_D%C3%B8nnum
 
 ## 🎨 Chess is Art ♟️
 
