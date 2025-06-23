@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's all good? 👋</h1>
+<div align="center"><h1>✨ Greetings 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29483__
+- Honor: __29488__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Vexin is a historical county of northern France. It covers a verdant plateau on the right bank (north) of the Seine running roughly east to west between Pontoise and Romilly-sur-Andelle, and north to south between Auneuil and the Seine near Vernon. The plateau is crossed by the Epte and the Andelle river valleys.
+Sanyi Township is a rural township in southern Miaoli County, Taiwan. It is famous for its mudiao (woodcarving) industry, earning it the name the Woodcarving Kingdom of Taiwan.
 
-https://en.m.wikipedia.org/wiki/Vexin
+https://en.m.wikipedia.org/wiki/Sanyi%2C_Miaoli
 
 ## 🎨 Chess is Art ♟️
 
