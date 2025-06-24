@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Greetings 👋</h1>
+<div align="center"><h1>✨ How's it all been? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29488__
+- Honor: __29496__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Sanyi Township is a rural township in southern Miaoli County, Taiwan. It is famous for its mudiao (woodcarving) industry, earning it the name the Woodcarving Kingdom of Taiwan.
+Luis Alberto Castillo is an American former professional football player who was a defensive end for the San Diego Chargers of the National Football League (NFL). He played college football for the Northwestern Wildcats before being selected by the Chargers in the first round of the 2005 NFL draft. Castillo was one of the cover athletes for the Spanish language version of Madden NFL 08. Castillo was also the first NFL player drafted of Dominican Heritage.
 
-https://en.m.wikipedia.org/wiki/Sanyi%2C_Miaoli
+https://en.m.wikipedia.org/wiki/Luis_Castillo_(American_football)
 
 ## 🎨 Chess is Art ♟️
 
