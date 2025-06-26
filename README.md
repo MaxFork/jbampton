@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Hi 👋</h1>
+<div align="center"><h1>✨ What's all good? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29499__
+- Honor: __29500__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Kentucky Route 1142, also known as Palatka Road, is a 1.736-mile-long (2.794 km) state highway in the U.S. State of Kentucky. Its western terminus is at KY 1931 in Louisville and its eastern terminus is at KY 907 in Louisville.
+Deerfield-Windsor School is an independent K–12 coeducational college preparatory school in Albany, Georgia, United States.
 
-https://en.m.wikipedia.org/wiki/Kentucky_Route_1142
+https://en.m.wikipedia.org/wiki/Deerfield-Windsor_School
 
 ## 🎨 Chess is Art ♟️
 
