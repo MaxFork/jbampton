@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's the buzz? 👋</h1>
+<div align="center"><h1>✨ Hi 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29505__
+- Honor: __29512__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Smysl pro tumor is a comedy drama television series directed by Tereza Kopáčová. It is an adaptation of Belgian series Gevoel voor Tumor. It started broadcast on 7 January 2024.
+Lee Dong-gun is a South Korean actor and singer.
 
-https://en.m.wikipedia.org/wiki/Smysl_pro_tumor
+https://en.m.wikipedia.org/wiki/Lee_Dong-gun
 
 ## 🎨 Chess is Art ♟️
 
