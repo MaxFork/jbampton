@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Hi 👋</h1>
+<div align="center"><h1>✨ Good afternoon 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29512__
+- Honor: __29516__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Lee Dong-gun is a South Korean actor and singer.
+Marshal of the Air Force (MIAF) is a five star rank and the highest attainable rank in the Indian Air Force.It is a ceremonial or wartime rank, having been awarded only once.
 
-https://en.m.wikipedia.org/wiki/Lee_Dong-gun
+https://en.m.wikipedia.org/wiki/Marshal_of_the_Indian_Air_Force
 
 ## 🎨 Chess is Art ♟️
 
