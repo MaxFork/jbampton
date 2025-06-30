@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good afternoon 👋</h1>
+<div align="center"><h1>✨ How's tricks? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29516__
+- Honor: __29517__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Marshal of the Air Force (MIAF) is a five star rank and the highest attainable rank in the Indian Air Force.It is a ceremonial or wartime rank, having been awarded only once.
+The Farmington Mine disaster was an explosion that happened at approximately 5:30 a.m. on November 20, 1968, at the Consol No. 9 coal mine north of Farmington and Mannington, West Virginia, United States.
 
-https://en.m.wikipedia.org/wiki/Marshal_of_the_Indian_Air_Force
+https://en.m.wikipedia.org/wiki/Farmington_Mine_disaster
 
 ## 🎨 Chess is Art ♟️
 
