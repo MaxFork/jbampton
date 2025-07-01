@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's tricks? 👋</h1>
+<div align="center"><h1>✨ How's it going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29517__
+- Honor: __29524__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The Farmington Mine disaster was an explosion that happened at approximately 5:30 a.m. on November 20, 1968, at the Consol No. 9 coal mine north of Farmington and Mannington, West Virginia, United States.
+Tristicha trifaria is a species of flowering plant belonging to the family Podostemaceae. It is the sole species in genus Tristicha. It is an aquatic subshrub native to the tropical and subtropical Americas, Africa, Thailand, Peninsular Malaysia, and northwestern Australia.
 
-https://en.m.wikipedia.org/wiki/Farmington_Mine_disaster
+https://en.m.wikipedia.org/wiki/Tristicha
 
 ## 🎨 Chess is Art ♟️
 
