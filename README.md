@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it going? 👋</h1>
+<div align="center"><h1>✨ How's it all been? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29524__
+- Honor: __29526__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Tristicha trifaria is a species of flowering plant belonging to the family Podostemaceae. It is the sole species in genus Tristicha. It is an aquatic subshrub native to the tropical and subtropical Americas, Africa, Thailand, Peninsular Malaysia, and northwestern Australia.
+Butuga II became the ruler of the Western Ganga Dynasty after his elder brother Rachamalla III.
 
-https://en.m.wikipedia.org/wiki/Tristicha
+https://en.m.wikipedia.org/wiki/Butuga_II
 
 ## 🎨 Chess is Art ♟️
 
