@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all been? 👋</h1>
+<div align="center"><h1>✨ Hi 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29526__
+- Honor: __29530__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Butuga II became the ruler of the Western Ganga Dynasty after his elder brother Rachamalla III.
+Fariborz Haghighat is an Iranian-Canadian academic, engineer and Distinguished Professor of Building, Civil & Environmental Engineering at Concordia University. Haghighat has a Concordia University Research Chair in Energy and Environment and he was Inducted into the Provost's Circle of Distinction in 2009.
 
-https://en.m.wikipedia.org/wiki/Butuga_II
+https://en.m.wikipedia.org/wiki/Fariborz_Haghighat
 
 ## 🎨 Chess is Art ♟️
 
