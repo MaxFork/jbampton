@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's happening? 👋</h1>
+<div align="center"><h1>✨ How's it all going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29534__
+- Honor: __29536__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Pogonomyrmex desertorum, the large seed harvesting ant, is a species of harvester ant native to Mexico, the southwestern United States, and possibly Florida and Colorado.
+Coleophora serratulella is a moth of the family Coleophoridae. It is found from Germany to the Pyrenees and Alps and from France to Romania and Greece.
 
-https://en.m.wikipedia.org/wiki/Pogonomyrmex_desertorum
+https://en.m.wikipedia.org/wiki/Coleophora_serratulella
 
 ## 🎨 Chess is Art ♟️
 
