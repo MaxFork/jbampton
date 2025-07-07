@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's happening? 👋</h1>
+<div align="center"><h1>✨ What's the buzz? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29538__
+- Honor: __29542__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Matthew 6:18 is the eighteenth verse of the sixth chapter of the Gospel of Matthew in the New Testament and is part of the Sermon on the Mount. This verse concludes the discussion of fasting.
+Sir Walter Fleming Coutts was a British colonial administrator and was Uganda's final Governor before independence, from 1961–1962. He was Governor-General of Uganda 1962–1963. He was chosen for this job because he had a reputation within the colonial office for supporting African nationalism and African independence movements.
 
-https://en.m.wikipedia.org/wiki/Matthew_6%3A18
+https://en.m.wikipedia.org/wiki/Walter_Coutts
 
 ## 🎨 Chess is Art ♟️
 
