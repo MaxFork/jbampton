@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's the buzz? 👋</h1>
+<div align="center"><h1>✨ How's tricks? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29542__
+- Honor: __29547__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Sir Walter Fleming Coutts was a British colonial administrator and was Uganda's final Governor before independence, from 1961–1962. He was Governor-General of Uganda 1962–1963. He was chosen for this job because he had a reputation within the colonial office for supporting African nationalism and African independence movements.
+Hans Rudolf "Hansruedi" Spillmann-Simmler was a Swiss sports shooter. He won silver medals in the rifle 300m three positions event at the 1960 Olympics and 1962 World Championships. Spillmann died in Zürich on 11 June 2024, at the age of 92.
 
-https://en.m.wikipedia.org/wiki/Walter_Coutts
+https://en.m.wikipedia.org/wiki/Hans_Rudolf_Spillmann
 
 ## 🎨 Chess is Art ♟️
 
