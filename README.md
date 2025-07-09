@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's tricks? 👋</h1>
+<div align="center"><h1>✨ Hey 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29547__
+- Honor: __29553__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Hans Rudolf "Hansruedi" Spillmann-Simmler was a Swiss sports shooter. He won silver medals in the rifle 300m three positions event at the 1960 Olympics and 1962 World Championships. Spillmann died in Zürich on 11 June 2024, at the age of 92.
+"I Shall Be There" is a song by Irish girl group B*Witched, featuring vocals from South African male choral group Ladysmith Black Mambazo. It was released on 6 December 1999 as the second single from their second studio album, Awake and Breathe (1999).
 
-https://en.m.wikipedia.org/wiki/Hans_Rudolf_Spillmann
+https://en.m.wikipedia.org/wiki/I_Shall_Be_There
 
 ## 🎨 Chess is Art ♟️
 
