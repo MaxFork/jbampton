@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been going on? 👋</h1>
+<div align="center"><h1>✨ How are you? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29557__
+- Honor: __29559__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Luka Modrić is a Croatian professional footballer who plays as a central midfielder and captains the Croatia national team. He is regarded as one of the greatest midfielders of all time and the greatest-ever Croatian player.
+Octopodoidea is a superfamily of the suborder Incirrata containing all extant octopods except for the cirrate octopodes, argonauts, and the vampire squid.
 
-https://en.m.wikipedia.org/wiki/Luka_Modri%C4%87
+https://en.m.wikipedia.org/wiki/Octopodoidea
 
 ## 🎨 Chess is Art ♟️
 
