@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How are you? 👋</h1>
+<div align="center"><h1>✨ What's been up? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29559__
+- Honor: __29565__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Octopodoidea is a superfamily of the suborder Incirrata containing all extant octopods except for the cirrate octopodes, argonauts, and the vampire squid.
+Necronauts was a story appearing in the British comics anthology 2000 AD, by British comics writer Gordon Rennie and artist Frazer Irving. It brought Irving to public attention as his high contrast black and white artwork complemented Rennie's dark storyline.
 
-https://en.m.wikipedia.org/wiki/Octopodoidea
+https://en.m.wikipedia.org/wiki/Necronauts
 
 ## 🎨 Chess is Art ♟️
 
