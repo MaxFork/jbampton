@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it been? 👋</h1>
+<div align="center"><h1>✨ Good evening 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29570__
+- Honor: __29573__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Janet W. Hardy is an American writer and sex educator, and founder of Greenery Press. She has also been published as Catherine A. Liszt and Lady Green. She is the author or co-author of eleven books, and frequently collaborates with Dossie Easton.
+"Alright" is a song recorded by American singer and songwriter Ledisi for her third studio album Lost & Found (2007). It was written by Ledisi, and produced by Rex Rideout with guitar played by musician Jubu Smith. Ledisi decided that she wanted a deeper and more personal song as the third single; the song was sent by Verve Forecast to contemporary hit radio in the United States on July 3, 2007. "Alright" is a soul song about dealing with personal and financial issues as well as acceptance. The single reached the top twenty on the US Adult R&B Songs chart.
 
-https://en.m.wikipedia.org/wiki/Janet_Hardy
+https://en.m.wikipedia.org/wiki/Alright_(Ledisi_song)
 
 ## 🎨 Chess is Art ♟️
 
