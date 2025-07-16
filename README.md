@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good evening 👋</h1>
+<div align="center"><h1>✨ How's everything going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29573__
+- Honor: __29580__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-"Alright" is a song recorded by American singer and songwriter Ledisi for her third studio album Lost & Found (2007). It was written by Ledisi, and produced by Rex Rideout with guitar played by musician Jubu Smith. Ledisi decided that she wanted a deeper and more personal song as the third single; the song was sent by Verve Forecast to contemporary hit radio in the United States on July 3, 2007. "Alright" is a soul song about dealing with personal and financial issues as well as acceptance. The single reached the top twenty on the US Adult R&B Songs chart.
+Sikar district is a district of the Indian state Rajasthan in northern India. It is a part of the Shekhawati region of Rajasthan. Rao Daulat Singh laid down the foundation stone of Thikana Sikar in 1687. District Collector of Sikar is Shri Mukul Sharma while Member of Parliament is Shri Amra Ram.
 
-https://en.m.wikipedia.org/wiki/Alright_(Ledisi_song)
+https://en.m.wikipedia.org/wiki/Sikar_district
 
 ## 🎨 Chess is Art ♟️
 
