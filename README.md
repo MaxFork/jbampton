@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything going? 👋</h1>
+<div align="center"><h1>✨ How's it been going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29580__
+- Honor: __29584__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Sikar district is a district of the Indian state Rajasthan in northern India. It is a part of the Shekhawati region of Rajasthan. Rao Daulat Singh laid down the foundation stone of Thikana Sikar in 1687. District Collector of Sikar is Shri Mukul Sharma while Member of Parliament is Shri Amra Ram.
+Manganeses de la Polvorosa is a municipality located in the province of Zamora, Castile and León, Spain. According to the 2022 census (INE), the municipality has a population of 623 inhabitants.
 
-https://en.m.wikipedia.org/wiki/Sikar_district
+https://en.m.wikipedia.org/wiki/Manganeses_de_la_Polvorosa
 
 ## 🎨 Chess is Art ♟️
 
