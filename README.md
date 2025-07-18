@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it been going? 👋</h1>
+<div align="center"><h1>✨ How's things going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -120,9 +120,10 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Manganeses de la Polvorosa is a municipality located in the province of Zamora, Castile and León, Spain. According to the 2022 census (INE), the municipality has a population of 623 inhabitants.
+Staphylinochrous euryperalis is a species of moth of the family Himantopteridae.
+It is found in Cameroon, the Central African Republic, Uganda and Zimbabwe.
 
-https://en.m.wikipedia.org/wiki/Manganeses_de_la_Polvorosa
+https://en.m.wikipedia.org/wiki/Staphylinochrous_euryperalis
 
 ## 🎨 Chess is Art ♟️
 
