@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's things going? 👋</h1>
+<div align="center"><h1>✨ What's been up? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29584__
+- Honor: __29588__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,10 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Staphylinochrous euryperalis is a species of moth of the family Himantopteridae.
-It is found in Cameroon, the Central African Republic, Uganda and Zimbabwe.
+Patancheru Assembly constituency is a constituency of Telangana Legislative Assembly, India. It is one of five constituencies in Sangareddy district. It is part of Medak Lok Sabha constituency. It is also one of the 24 constituencies of GHMC.
 
-https://en.m.wikipedia.org/wiki/Staphylinochrous_euryperalis
+https://en.m.wikipedia.org/wiki/Patancheru_Assembly_constituency
 
 ## 🎨 Chess is Art ♟️
 
