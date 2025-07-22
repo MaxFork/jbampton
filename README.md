@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it been? 👋</h1>
+<div align="center"><h1>✨ What's the story? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29593__
+- Honor: __29595__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Ladyhawke is the debut studio album by New Zealand singer and songwriter Ladyhawke. It was released on 19 September 2008 by Modular Recordings. Featuring production by Pascal Gabriel, Greg Kurstin, Kid Gloves, Kish Mauve's Jim Eliot, Paul Harris and Van She's Michael Di Francesco, the album incorporates 1980s-influenced new wave and synth-pop, as well as indie rock. It was promoted by five singles: "Back of the Van", "Paris Is Burning", "Dusk Till Dawn", "My Delirium" and "Magic".
+The Hongqi EH7 is a battery electric mid-size executive sedan produced by Chinese automobile manufacturer Hongqi, a subsidiary of FAW Group.
 
-https://en.m.wikipedia.org/wiki/Ladyhawke_(album)
+https://en.m.wikipedia.org/wiki/Hongqi_EH7
 
 ## 🎨 Chess is Art ♟️
 
