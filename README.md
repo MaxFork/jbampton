@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's the story? 👋</h1>
+<div align="center"><h1>✨ How's it been? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29595__
+- Honor: __29597__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The Hongqi EH7 is a battery electric mid-size executive sedan produced by Chinese automobile manufacturer Hongqi, a subsidiary of FAW Group.
+Flat Island or Ngan Chau is an island located near the north shore of Sai Kung Peninsula of Hong Kong. It is at the mouth of in Hoi Ha Wan and the boundary of Hoi Ha Wan Marine Park (海下灣海岸公園).
 
-https://en.m.wikipedia.org/wiki/Hongqi_EH7
+https://en.m.wikipedia.org/wiki/Flat_Island_(Hong_Kong)
 
 ## 🎨 Chess is Art ♟️
 
