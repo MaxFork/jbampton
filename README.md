@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it been? 👋</h1>
+<div align="center"><h1>✨ Greetings 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,10 +52,10 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29597__
+- Honor: __29604__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
-- Total Completed Kata: __1633__
+- Total Completed Kata: __1634__
 
 ## ♟️ lichess
 
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Flat Island or Ngan Chau is an island located near the north shore of Sai Kung Peninsula of Hong Kong. It is at the mouth of in Hoi Ha Wan and the boundary of Hoi Ha Wan Marine Park (海下灣海岸公園).
+Stars in My Pocket Like Grains of Sand (1984) is a science fiction novel by Samuel R. Delany. It is part of what would have been a "diptych", in Delany's description, of which the second half, The Splendor and Misery of Bodies, of Cities, remains unfinished.
 
-https://en.m.wikipedia.org/wiki/Flat_Island_(Hong_Kong)
+https://en.m.wikipedia.org/wiki/Stars_in_My_Pocket_Like_Grains_of_Sand
 
 ## 🎨 Chess is Art ♟️
 
