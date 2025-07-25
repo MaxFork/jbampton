@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Greetings 👋</h1>
+<div align="center"><h1>✨ What's going on? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29604__
+- Honor: __29605__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1634__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Stars in My Pocket Like Grains of Sand (1984) is a science fiction novel by Samuel R. Delany. It is part of what would have been a "diptych", in Delany's description, of which the second half, The Splendor and Misery of Bodies, of Cities, remains unfinished.
+Bihar al-Anwar is a comprehensive collection of hadith compiled by Shia scholar Mohammad-Baqer Majlesi. It is the secondary Shi'ite hadith verification source after the Four Books.
 
-https://en.m.wikipedia.org/wiki/Stars_in_My_Pocket_Like_Grains_of_Sand
+https://en.m.wikipedia.org/wiki/Bihar_al-Anwar
 
 ## 🎨 Chess is Art ♟️
 
