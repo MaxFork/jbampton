@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's going on? 👋</h1>
+<div align="center"><h1>✨ How's it hanging? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -52,7 +52,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29605__
+- Honor: __29609__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1634__
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Bihar al-Anwar is a comprehensive collection of hadith compiled by Shia scholar Mohammad-Baqer Majlesi. It is the secondary Shi'ite hadith verification source after the Four Books.
+Non-lethal weapons, also called nonlethal weapons, less-lethal weapons, less-than-lethal weapons, non-deadly weapons, compliance weapons, or pain-inducing weapons are weapons intended to be less likely to kill a living target than conventional weapons such as knives and firearms with metal-projectile ammunition. It is often understood that unintended or incidental casualties are risked wherever force is applied; however, non-lethal weapons minimise the risk of casualties as much as possible. Non-lethal weapons are used in policing and combat situations to limit the escalation of conflict where employment of lethal force is prohibited or undesirable, where rules of engagement require minimum casualties, or where policy restricts the use of conventional force. However, these weapons occasionally cause serious injuries or death due to allergic reactions, improper use and/or other factors; for this reason the term "less-lethal" has been preferred by some organizations as it describes the risks of death more accurately than the term "non-lethal", which some have argued is a misnomer.
 
-https://en.m.wikipedia.org/wiki/Bihar_al-Anwar
+https://en.m.wikipedia.org/wiki/Non-lethal_weapon
 
 ## 🎨 Chess is Art ♟️
 
